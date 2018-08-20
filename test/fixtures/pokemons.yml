@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 
+  first_type: 
+  second_type: 
+  strength: 
+  hp: 
+  attack: 
+  defense: 
+  special_atk: 
+  speed: 
+  generation: 
+  legendary: false
+
+two:
+  name: 
+  first_type: 
+  second_type: 
+  strength: 
+  hp: 
+  attack: 
+  defense: 
+  special_atk: 
+  speed: 
+  generation: 
+  legendary: false
